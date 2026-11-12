@@ -77,3 +77,10 @@ Upload the dataset ZIP file to Google Colab, extract it, and run the notebook ce
 - [Punctuation Restoration](https://huggingface.co/Horizon-Labs/punctuation-restoration-small)
 - [Sentence Ordering](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
 - [Translation](https://huggingface.co/Helsinki-NLP/opus-mt-hi-en)
+
+## Project Results
+
+- 7 Hindi input files processed.
+- 7 punctuated output files generated.
+- 7 reordered output files generated.
+- 77 translated groups generated.
